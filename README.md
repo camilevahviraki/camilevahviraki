@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **sass,redux**
 
-- 📝 I regularly write articles on [https://camilevahviraki.github.io/Portfolio/](https://camilevahviraki.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://camilevahviraki.github.io/Portfolio/](https://camilevahviraki.github.io/Portfolio/)
 
 - 💬 Ask me about **react,Javascript,html,css,Mysql,**
 
@@ -39,5 +39,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilevahviraki&show_icons=true&locale=en&layout=compact" alt="camilevahviraki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camilevahviraki&show_icons=true&locale=en" alt="camilevahviraki" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilevahviraki&" alt="camilevahviraki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilevahviraki&" alt="camilevahviraki" /></p>
