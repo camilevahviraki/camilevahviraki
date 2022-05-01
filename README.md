@@ -41,5 +41,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camilevahviraki&show_icons=true&locale=en" alt="camilevahviraki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilevahviraki&" alt="camilevahviraki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilevahviraki&" alt="camilevahviraki" /></p>
