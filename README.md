@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Vitron app**
 
-- 🌱 I’m currently learning **sass,redux**
+- 🌱 I’m currently learning **ruby on rails**
 
-- 👨‍💻 All of my projects are available at [https://camilevahviraki.github.io/Portfolio/](https://camilevahviraki.github.io/Portfolio/)
+- 👨‍💻 My projects are available at [https://portfolio-camile.netlify.app/](https://portfolio-camile.netlify.app/)
 
 - 💬 Ask me about **react,Javascript,html,css,Mysql,**
 
