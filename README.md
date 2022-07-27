@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **camilevahviraki@gmail.com**
 
-- ⚡ Fun fact **I regulary do some**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
