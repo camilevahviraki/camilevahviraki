@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Camile</h1>
+<h1 align="center">Hi , I'm Camile</h1>
 
 <img src='https://www.lambdatest.com/resources/images/news24.gif' alt=''/>
 
-- 🔭 I’m currently working on **Oasis app**
+- My projects are available at [https://portfolio-camile.netlify.app/](https://portfolio-camile.netlify.app/)
 
-- 👨‍💻 My projects are available at [https://portfolio-camile.netlify.app/](https://portfolio-camile.netlify.app/)
-
-- 📫 How to reach me **camilevahviraki@gmail.com**
+- Reach me at **camilevahviraki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
